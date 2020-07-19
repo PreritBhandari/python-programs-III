@@ -1,0 +1,32 @@
+{
+    "courses": {
+        "Python": "==========Python==========\nBegginer to Advance\n3 month course\nCourse Subscipition: Rs 20000",
+        "PHP": "==========PHP==========\nBegginer to Advance\n3 month course\nCourse Subscipition: Rs 20000",
+        "CloudComputing": "==========CloudComputing==========\nBegginer to Advance\n3 month course\nCourse Subscipition: Rs 20000",
+        "DataScience": "==========DataScience==========\nBegginer to Advance\n3 month course\nCourse Subscipition: Rs 20000",
+        "FrontEnd": "==========FrontEnd==========\nBegginer to Advance\n3 month course\nCourse Subscipition: Rs 20000"
+    },
+    "student": {
+        "1": {
+            "name": "Prerit Bhandari",
+            "payment": 10000,
+            "returned": "",
+            "course": "Python",
+            "course_status": 2
+        },
+        "2": {
+            "name": "Will Smith",
+            "payment": 10000,
+            "returned": "",
+            "course": "DataScience",
+            "course_status": 1
+        },
+        "3": {
+            "name": "James Bond",
+            "payment": 10000,
+            "returned": "",
+            "course": "CloudComputing",
+            "course_status": 2
+        }
+    }
+}
